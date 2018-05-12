@@ -1,0 +1,52 @@
+_repo: Bible-Animals-the-Scripture-from-the-Ape-to-the-Coral._42964
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Smith, E. A. (Edgar Albert)
+    alias: Smith, Edgar Albert
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '41956'
+    url: http://www.gutenberg.org/2009/agents/41956
+  - agent_name: Keyl, Friedrich Wilhelm
+    aliases:
+    - Keyl, F. W. (Friedrich Wilhelm)
+    - Keyl, Frederich Wilhelm
+    birthdate: 1823
+    deathdate: 1871
+    gutenberg_agent_id: '9845'
+    url: http://www.gutenberg.org/2009/agents/9845
+  - agent_name: Wood, T. W. (Thomas W.)
+    alias: Wood, Thomas W.
+    birthdate: 1839
+    gutenberg_agent_id: '41955'
+    url: http://www.gutenberg.org/2009/agents/41955
+covers:
+- cover_type: archival
+  image_path: 42964-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, J. G. (John George)
+    aliases:
+    - Forrest, George
+    - Wood, John George
+    birthdate: 1827
+    deathdate: 1889
+    gutenberg_agent_id: '8330'
+    url: http://www.gutenberg.org/2009/agents/8330
+description: ''
+gutenberg_issued: '2013-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature in the Bible'
+- !lcsh 'Animals in the Bible'
+- !lcc 'BS'
+title: "Bible Animals;\r\nBeing a Description of Every Living Creature Mentioned in\
+  \ the Scripture, from the Ape to the Coral."
+url: http://www.gutenberg.org/ebooks/42964
